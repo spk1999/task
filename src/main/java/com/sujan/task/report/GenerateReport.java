@@ -5,10 +5,7 @@ import com.itextpdf.text.pdf.PdfPCell;
 import com.itextpdf.text.pdf.PdfPTable;
 import com.itextpdf.text.pdf.PdfWriter;
 import com.sujan.task.dto.ReportDto;
-import net.sf.jasperreports.engine.*;
-import org.springframework.util.ResourceUtils;
 
-import java.io.File;
 import java.io.FileOutputStream;
 import java.util.List;
 import java.util.stream.Stream;

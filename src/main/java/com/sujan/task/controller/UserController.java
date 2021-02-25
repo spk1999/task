@@ -3,7 +3,6 @@ package com.sujan.task.controller;
 import com.sujan.task.dto.UserDto;
 import com.sujan.task.model.User;
 import com.sujan.task.service.UserService;
-import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
